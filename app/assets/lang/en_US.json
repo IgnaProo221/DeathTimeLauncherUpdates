@@ -1,0 +1,49 @@
+{
+    "html": {
+        "avatarOverlay": "Editar"
+    },
+    "js": {
+        "login": {
+            "error": {
+                "invalidValue": "* Valor invalido",
+                "requiredValue": "* Requirido",
+                "userMigrated": {
+                    "title": "Error durante Inicio de sesion:<br>Credenciales invalidas",
+                    "desc": "Ha intentado iniciar sesión con una cuenta migrada. Vuelva a intentarlo utilizando la cuenta de correo electrónico como nombre de usuario."
+                },
+                "invalidCredentials": {
+                    "title": "Error durante Inicio de sesion:<br>Credenciales invalidas",
+                    "desc": "El email o la contraseña son incorrectas."
+                },
+                "rateLimit": {
+                    "title": "Error durante Inicio de sesion:<br>Demasiados intentos",
+                    "desc": "Han habido muchos intentos de inicio de sesion con esta cuenta, intente mas tarde."
+                },
+                "noInternet": {
+                    "title": "Error durante Inicio de sesion:<br>Sin internet",
+                    "desc": "Nesesitas estar conectado a internet para ingresar."
+                },
+                "authDown": {
+                    "title": "Error durante Inicio de sesion:<br>Servidor de autentificacion apagado",
+                    "desc": "Los servidores de autentificacion de mojang estan apagados, intentelo de nuevo mas tarde, si quiere ver el estado de los servidores ingrese a esta pagina: <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                },
+                "notPaid": {
+                    "title": "Error durante Inicio de sesion:<br>Juego no comprado",
+                    "desc": "Estas intentando ingresar con una cuenta no premium, puedes comprar el juego aca: <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                },
+                "unknown": {
+                    "title": "Error durante Inicio de sesion:<br>Error desconocido"
+                }
+            },
+            "login": "INGRESAR",
+            "loggingIn": "INICIAR SESION",
+            "success": "EXITO",
+            "tryAgain": "Intenta de nuevo"
+        },
+        "landing": {
+            "launch": {
+                "pleaseWait": "Porfavor espere..."
+            }
+        }
+    }
+}
