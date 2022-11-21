@@ -1,5 +1,5 @@
 appId: 'deathtimelauncher'
-productName: 'DeathTime Launcher'
+productName: 'DeathTimeLauncher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi'
